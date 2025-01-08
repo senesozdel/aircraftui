@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+1) git clone ile projeyi klonlayınız
+2) npm i ile gerekli bağımlılıkları projenize ekleyiniz.
+3) npm start ile yerel makinenizde projeyi çalıştırınız.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# partList
+![partlist](https://github.com/user-attachments/assets/8fb88424-234b-4fc2-8988-516a745ebad6)
+# login
+![login](https://github.com/user-attachments/assets/d57c0724-2cbb-4745-a015-bcd56ea1ed6a)
+# errormodal
+![errormodal](https://github.com/user-attachments/assets/c6e4a967-7e83-4029-8dcf-8dea1e44e0ef)
+# createpart
+![createpart](https://github.com/user-attachments/assets/1c2938b7-68e5-43bd-8254-06314ffc9af4)
+# createaircraft
+![createaircraft](https://github.com/user-attachments/assets/b32b2e96-3d17-4001-9cb3-e496086474ea)
+# aircraftlist
+![aircraftlist](https://github.com/user-attachments/assets/484fc426-54f9-490b-855c-b71fa3e5a470)
+# aircraftdelete
+![aircraftdelete](https://github.com/user-attachments/assets/5fdedd09-a3db-4ce3-984e-cbabfa20d59f)
+# teammates
+![teammates](https://github.com/user-attachments/assets/78e34ca6-4d69-444b-9dd8-a3d9786a466e)
+# stock error
+![stockerror](https://github.com/user-attachments/assets/b3842ef3-ed1e-4a0d-bdf1-d027ac8f3169)
+# register
+![register](https://github.com/user-attachments/assets/b8b289f9-a6a1-4985-b3d9-43c1fa82a37b)
+# producedaircraftlist
+![producedaircraftlist](https://github.com/user-attachments/assets/73b30b91-13cd-42ba-8c00-0cf889deacb0)
+# producedaircraftdetail
+![producedaircraftdetail](https://github.com/user-attachments/assets/6c231d4e-6fce-42f3-8607-470e73e8cb5e)
